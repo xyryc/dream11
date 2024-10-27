@@ -1,0 +1,152 @@
+[
+  {
+    "playerId": 1,
+    "name": "Kane Williamson",
+    "country": "New Zealand",
+    "image": "https://institute.careerguide.com/wp-content/uploads/2024/04/Kane-Williamson-1024x768.webp",
+    "role": "Batsman",
+    "battingType": "Right-handed",
+    "bowlingType": "N/A",
+    "biddingPrice": 7500000
+  },
+  {
+    "playerId": 2,
+    "name": "Mahmudullah Riyad",
+    "country": "Bangladesh",
+    "image": "https://i.ibb.co.com/Vvf6jJH/Mahmadullah-Riyad.webp",
+    "role": "All-rounder",
+    "battingType": "Right-handed",
+    "bowlingType": "Right-arm offbreak",
+    "biddingPrice": 6000000
+  },
+  {
+    "playerId": 3,
+    "name": "Rashid Khan",
+    "country": "Afghanistan",
+    "image": "https://i.ibb.co.com/nzXGxwF/Rashid-Khan.webp",
+    "role": "Bowler",
+    "battingType": "Right-handed",
+    "bowlingType": "Right-arm leg spin",
+    "biddingPrice": 8500000
+  },
+  {
+    "playerId": 4,
+    "name": "Steve Smith",
+    "country": "Australia",
+    "image": "https://i.ibb.co.com/q76X0q0/Stevesmith.webp",
+    "role": "Batsman",
+    "battingType": "Right-handed",
+    "bowlingType": "N/A",
+    "biddingPrice": 10000000
+  },
+  {
+    "playerId": 5,
+    "name": "Glenn Maxwell",
+    "country": "Australia",
+    "image": "https://i.ibb.co.com/Wk3zfC8/Maxwell.webp",
+    "role": "All-rounder",
+    "battingType": "Right-handed",
+    "bowlingType": "Right-arm off-spin",
+    "biddingPrice": 9500000
+  },
+  {
+    "playerId": 6,
+    "name": "Quinton de Kock",
+    "country": "South Africa",
+    "image": "https://i.ibb.co.com/QCpwpRP/quinton-de-kock-1700197834548-original.jpg",
+    "role": "Wicketkeeper-Batsman",
+    "battingType": "Left-handed",
+    "bowlingType": "N/A",
+    "biddingPrice": 7000000
+  },
+  {
+    "playerId": 7,
+    "name": "David Warner",
+    "country": "Australia",
+    "image": "https://i.ibb.co.com/wg85ZsK/David-Warner.jpg",
+    "role": "Batsman",
+    "battingType": "Left-handed",
+    "bowlingType": "N/A",
+    "biddingPrice": 8500000
+  },
+  {
+    "playerId": 8,
+    "name": "Mitchell Starc",
+    "country": "Australia",
+    "image": "https://i.ibb.co.com/4P0C3rw/Mitchell-Starc.jpg",
+    "role": "Bowler",
+    "battingType": "Right-handed",
+    "bowlingType": "Left-arm fast",
+    "biddingPrice": 9500000
+  },
+  {
+    "playerId": 9,
+    "name": "Rassie van der Dussen",
+    "country": "South Africa",
+    "image": "https://i.ibb.co.com/cCpDTkq/rassie-van-der-dussen-014319246-1x1.webp",
+    "role": "Batsman",
+    "battingType": "Right-handed",
+    "bowlingType": "N/A",
+    "biddingPrice": 6000000
+  },
+  {
+    "playerId": 10,
+    "name": "Trent Boult",
+    "country": "New Zealand",
+    "image": "https://i.ibb.co.com/VwGRH3s/Trent-Boult.jpg",
+    "role": "Bowler",
+    "battingType": "Right-handed",
+    "bowlingType": "Left-arm fast",
+    "biddingPrice": 8500000
+  },
+  {
+    "playerId": 11,
+    "name": "Mark Wood",
+    "country": "England",
+    "image": "https://i.ibb.co.com/ZcYXQ3Z/mark-wood.jpg",
+    "role": "Bowler",
+    "battingType": "Right-handed",
+    "bowlingType": "Right-arm fast",
+    "biddingPrice": 7500000
+  },
+  {
+    "playerId": 12,
+    "name": "Jos Buttler",
+    "country": "England",
+    "image": "https://i.ibb.co.com/bd0NV8P/Jos-Buttler.jpg",
+    "role": "Wicketkeeper-Batsman",
+    "battingType": "Right-handed",
+    "bowlingType": "N/A",
+    "biddingPrice": 8000000
+  },
+  {
+    "playerId": 13,
+    "name": "Shane Watson",
+    "country": "Australia",
+    "image": "https://i.ibb.co.com/QDZBgML/Shane-Watson.webp",
+    "role": "All-rounder",
+    "battingType": "Right-handed",
+    "bowlingType": "Right-arm medium",
+    "biddingPrice": 7000000
+  },
+  {
+    "playerId": 14,
+    "name": "Imran Tahir",
+    "country": "South Africa",
+    "image": "https://i.ibb.co.com/2WGSSk1/IMRAN-TAHIR.jpg",
+    "role": "Bowler",
+    "battingType": "Right-handed",
+    "bowlingType": "Right-arm leg spin",
+    "biddingPrice": 5000000
+  },
+  {
+    "playerId": 15,
+    "name": "Ben Stokes",
+    "country": "England",
+    "image": "https://i.ibb.co.com/Jmkr72V/Ben-Stokes-updated.jpg",
+    "role": "All-rounder",
+    "battingType": "Left-handed",
+    "bowlingType": "Right-arm medium",
+    "biddingPrice": 11000000
+  }
+]
